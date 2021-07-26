@@ -18,7 +18,7 @@
 
 # 실 거래 화면
 
-![trade](D:\Users\AYT\Documents\GitHub\Stock_Automated_Trader\trade.gif)
+<img src=https://github.com/y00913/Stock_Automated_Trader/blob/main/test.gif>
 
 # 테스트 화면
 
