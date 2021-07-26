@@ -7,7 +7,7 @@
 
 학교 프로젝트 제작 참여. visual C# console & 키움증권 openAPI 활용. 
 
-키움증권 openAPI & 계정 필요.
+키움증권 openAPI, 계정, 영웅문 필요.
 
 # 기능
 
