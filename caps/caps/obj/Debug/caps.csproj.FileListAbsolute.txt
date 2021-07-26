@@ -1,0 +1,16 @@
+C:\Users\KGM\source\repos\caps\caps\bin\Debug\caps.exe.config
+C:\Users\KGM\source\repos\caps\caps\bin\Debug\caps.exe
+C:\Users\KGM\source\repos\caps\caps\bin\Debug\caps.pdb
+C:\Users\KGM\source\repos\caps\caps\bin\Debug\Interop.KHOpenAPILib.dll
+C:\Users\KGM\source\repos\caps\caps\bin\Debug\AxInterop.KHOpenAPILib.dll
+C:\Users\KGM\source\repos\caps\caps\obj\Debug\caps.csprojAssemblyReference.cache
+C:\Users\KGM\source\repos\caps\caps\obj\Debug\Interop.KHOpenAPILib.dll
+C:\Users\KGM\source\repos\caps\caps\obj\Debug\AxInterop.KHOpenAPILib.dll
+C:\Users\KGM\source\repos\caps\caps\obj\Debug\caps.csproj.ResolveComReference.cache
+C:\Users\KGM\source\repos\caps\caps\obj\Debug\caps.Form1.resources
+C:\Users\KGM\source\repos\caps\caps\obj\Debug\caps.Properties.Resources.resources
+C:\Users\KGM\source\repos\caps\caps\obj\Debug\caps.csproj.GenerateResource.cache
+C:\Users\KGM\source\repos\caps\caps\obj\Debug\caps.csproj.CoreCompileInputs.cache
+C:\Users\KGM\source\repos\caps\caps\obj\Debug\caps.exe
+C:\Users\KGM\source\repos\caps\caps\obj\Debug\caps.pdb
+C:\Users\KGM\source\repos\caps\caps\obj\Debug\caps.Form2.resources
