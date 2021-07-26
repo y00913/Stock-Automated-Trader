@@ -5,7 +5,7 @@
 
 수원대학교 컴퓨터SW 안유태 
 
-학교 프로젝트 제작 참여. visual C# console & 키움증권 openAPI 활용. 
+캡스톤 디자인 프로젝트 결과물. visual C# console & 키움증권 openAPI 활용. 
 
 키움증권 openAPI, 계정, 영웅문 필요.
 
