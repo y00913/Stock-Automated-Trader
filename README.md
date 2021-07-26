@@ -16,10 +16,10 @@
 - 손익 계산 후 자동 거래
 - 실 거래 전 테스트
 
-#실 거래 화면
+# 실 거래 화면
 
 ![trade](D:\Users\AYT\Documents\GitHub\Stock_Automated_Trader\trade.gif)
 
-#테스트 화면
+# 테스트 화면
 
 ![test](D:\Users\AYT\Documents\GitHub\Stock_Automated_Trader\test.gif)
