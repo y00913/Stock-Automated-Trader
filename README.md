@@ -3,7 +3,7 @@
 
 
 
-수원대학교 컴퓨터SW 안유태, [김규민](https://github.com/kgm-930)
+수원대학교 컴퓨터SW 안유태 & [김규민](https://github.com/kgm-930)
 
 캡스톤 디자인 프로젝트 결과물. visual C# console & 키움증권 openAPI 활용. 
 
