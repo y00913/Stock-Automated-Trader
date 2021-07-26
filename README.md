@@ -18,8 +18,8 @@
 
 # 실 거래 화면
 
-<img src=https://github.com/y00913/Stock_Automated_Trader/blob/main/img/test.gif>
+<img src=https://github.com/y00913/Stock_Automated_Trader/blob/main/img/trade.gif>
 
 # 테스트 화면
 
-![test](D:\Users\AYT\Documents\GitHub\Stock_Automated_Trader\test.gif)
+<img src=https://github.com/y00913/Stock_Automated_Trader/blob/main/img/test.gif>
