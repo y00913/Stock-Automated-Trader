@@ -5,7 +5,7 @@
 
 수원대학교 컴퓨터SW 안유태 
 
-학교 프로젝트 참여 제작. visual C# console & 키움증권 openAPI 활용. 
+학교 프로젝트 제작 참여. visual C# console & 키움증권 openAPI 활용. 
 
 키움증권 openAPI & 계정 필요
 
